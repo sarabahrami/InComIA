@@ -13,7 +13,7 @@ package svnsrcml;
 
 	import org.apache.commons.io.FileUtils;
 
-	public class svncheckout {
+	public class SvnCheckout {
 		public static File wd = new File("/usr/bin/");
 		//public static String sourceCodeDirPath = "/home/sunshine40270/mine/projectdata/mylynsvn/trunk";
 		//public static String sourceCodeDirPath1 = "/home/sunshine40270/mine/projectdata/mylynsvn/commitbenchmark";
