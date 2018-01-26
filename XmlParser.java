@@ -15,6 +15,7 @@
  License along with this program; if not, write to the Free
  Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
  GNU library General Public
+this is an example of policy
  */
 package relevantfile;
 
